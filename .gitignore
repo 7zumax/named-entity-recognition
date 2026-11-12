@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/DistilBERT/
+models/hf_checkpoints/
+data/glove.6B.*
+data/*.zip
+*.part
+*_log.txt

@@ -1,0 +1,11 @@
+torch==2.6.0
+pytorch-crf==0.7.2
+seqeval==1.2.2
+transformers==5.22.2
+accelerate
+gradio==6.31.0
+remotezip
+pandas
+numpy
+matplotlib
+jupyter
